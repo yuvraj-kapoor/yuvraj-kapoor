@@ -1,4 +1,4 @@
-# # # READ ME
+# READ ME
 Hi, I'm Yuvraj Kapoor,
 
 🎓 Computer Science student at the University of Toronto  
@@ -30,4 +30,4 @@ Hi, I'm Yuvraj Kapoor,
 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/yuvraj-kapoor-cs/
 
-# # #
+#
