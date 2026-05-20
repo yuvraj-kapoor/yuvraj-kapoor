@@ -11,8 +11,8 @@ I’m interested in:
 ---
 
 ## 🚀 Currently Working On
-
-- Building projects in Python, Java, C, and C++
+- Building a Quant trading backtester that allows users to simulate and evaluate trading strategies using historical stock market data.
+- Building several other projects in Python, Java, C, and C++
 - Strengthening data structures & algorithms skills
 - Exploring graph theory, analytics systems, and simulations
 - Developing scalable problem-solving and software design skills
@@ -75,4 +75,4 @@ I’m interested in:
 ## 📫 Connect With Me
 
 - LinkedIn:  
-  :contentReference[oaicite:0]{index=0}
+  https://www.linkedin.com/in/yuvraj-kapoor-cs/
